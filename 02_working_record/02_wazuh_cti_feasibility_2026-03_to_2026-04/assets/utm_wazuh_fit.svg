@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Possible Wazuh fit for UTM JB</title>
+  <desc id="desc">A simple conceptual diagram showing selected UTM-owned systems feeding logs into Wazuh for monitoring and support workflow.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#315b7a"/>
+    </marker>
+    <style>
+      .source { fill:#f7fafc; stroke:#6b7785; stroke-width:2; rx:10; }
+      .wazuh { fill:#edf7f2; stroke:#2f7c67; stroke-width:2; rx:10; }
+      .output { fill:#f8f4e8; stroke:#9b7a30; stroke-width:2; rx:10; }
+      .title { font-family: Arial, sans-serif; fill:#17202a; font-size:22px; font-weight:700; }
+      .text { font-family: Arial, sans-serif; fill:#17202a; font-size:20px; font-weight:700; }
+      .sub { font-family: Arial, sans-serif; fill:#3f4d5a; font-size:15px; }
+      .arrow { stroke:#315b7a; stroke-width:3; fill:none; marker-end:url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="390" fill="#ffffff"/>
+  <text x="54" y="48" class="title">Possible Complementary Wazuh Use at UTM JB</text>
+  <text x="54" y="75" class="sub">Scope should start with approved UTM-owned assets and logs, not unmanaged personal devices.</text>
+
+  <rect x="55" y="120" width="240" height="68" class="source"/>
+  <text x="85" y="151" class="text">Servers and services</text>
+  <text x="88" y="173" class="sub">OS, application, audit logs</text>
+
+  <rect x="55" y="220" width="240" height="68" class="source"/>
+  <text x="89" y="251" class="text">Managed endpoints</text>
+  <text x="89" y="273" class="sub">Agent-based visibility</text>
+
+  <rect x="55" y="320" width="240" height="50" class="source"/>
+  <text x="88" y="351" class="text">Firewall or syslog</text>
+
+  <rect x="450" y="170" width="300" height="100" class="wazuh"/>
+  <text x="518" y="211" class="text">Wazuh monitoring layer</text>
+  <text x="500" y="238" class="sub">Rules, alerts, inventory, vulnerability data</text>
+
+  <rect x="900" y="120" width="240" height="68" class="output"/>
+  <text x="943" y="151" class="text">Dashboard review</text>
+  <text x="940" y="173" class="sub">Alert triage and evidence</text>
+
+  <rect x="900" y="220" width="240" height="68" class="output"/>
+  <text x="949" y="251" class="text">Support workflow</text>
+  <text x="943" y="273" class="sub">Ticket, escalation, response</text>
+
+  <path d="M295 154 C355 154 380 200 450 205" class="arrow"/>
+  <path d="M295 254 C355 254 380 230 450 230" class="arrow"/>
+  <path d="M295 345 C370 345 395 265 450 245" class="arrow"/>
+  <path d="M750 206 C820 190 840 155 900 154" class="arrow"/>
+  <path d="M750 240 C820 250 840 254 900 254" class="arrow"/>
+</svg>

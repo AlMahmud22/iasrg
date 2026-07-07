@@ -1,0 +1,8 @@
+factor_id,factor,evidence_claim_count,official_source_mentions,academic_source_mentions
+F1,Awareness gap,8,13,6
+F2,Social influence and trust transfer,4,1,4
+F3,Authority impersonation,4,10,0
+F4,Urgency and fear,4,7,1
+F5,"Emotional grooming, shame and recovery",4,1,4
+F6,Financial need and FOMO,2,4,0
+F7,Protective self-efficacy and reporting,10,16,8

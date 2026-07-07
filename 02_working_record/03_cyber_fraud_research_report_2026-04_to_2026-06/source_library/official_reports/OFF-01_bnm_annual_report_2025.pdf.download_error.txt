@@ -1,0 +1,3 @@
+Download failed on 2026-07-04
+URL: https://www.bnm.gov.my/documents/20124/21185005/ar2025_en_book.pdf
+Error: Empty response body with HTTP 202

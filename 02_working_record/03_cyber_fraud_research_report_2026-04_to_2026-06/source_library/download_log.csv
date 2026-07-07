@@ -1,0 +1,29 @@
+id,url,path,status,http_status,bytes,error
+OFF-01,https://www.bnm.gov.my/documents/20124/21185005/ar2025_en_book.pdf,source_library\official_reports\OFF-01_bnm_annual_report_2025.pdf.download_error.txt,failed,202,0,Empty response body
+OFF-02,https://bnm.gov.my/publications/ar2025/box4,source_library\official_reports\OFF-02_bnm_fraud_resolution_box_2025.html.download_error.txt,failed,202,0,Empty response body
+OFF-03,https://www.bnm.gov.my/-/nfp-launch,source_library\official_reports\OFF-03_bnm_national_fraud_portal_launch.html.download_error.txt,failed,202,0,Empty response body
+OFF-04,https://www.bnm.gov.my/-/spch-g-ifctf25,source_library\official_reports\OFF-04_bnm_ifctf_2025_speech.html.download_error.txt,failed,202,0,Empty response body
+OFF-05,https://www.rmp.gov.my/scam-alert,source_library\official_reports\OFF-05_pdrm_scam_alert.html,downloaded,200,80878,
+OFF-06,https://semakmule.rmp.gov.my/,source_library\official_reports\OFF-06_pdrm_semak_mule.html,downloaded_ssl_unverified,200,829,Saved with SSL verification fallback
+OFF-07,https://nfcc.jpm.gov.my/index.php/en/about-nsrc,source_library\official_reports\OFF-07_nfcc_nsrc_information.html,downloaded,200,140929,
+OFF-08,https://www.mycert.org.my/portal/advisory?id=SR-029.022025,source_library\official_reports\OFF-08_mycert_cyber999_q4_2024.html,downloaded,200,602641,
+OFF-09,https://www.mycert.org.my/portal/advisory?id=SR-030.062025,source_library\official_reports\OFF-09_mycert_cyber999_q1_2025.html,downloaded,200,513016,
+OFF-10,https://www.mycert.org.my/portal/advisory?id=SR-031.082025,source_library\official_reports\OFF-10_mycert_cyber999_q2_2025.html,downloaded,200,525969,
+OFF-11,https://www.mycert.org.my/portal/advisory?id=SR-032.012026,source_library\official_reports\OFF-11_mycert_cyber999_q3_2025.html,downloaded,200,511456,
+OFF-12,https://www.mycert.org.my/portal/advisory?id=SR-033.042026,source_library\official_reports\OFF-12_mycert_cyber999_q4_2025.html,downloaded,200,205011,
+OFF-13,https://www.sc.com.my/investor-empowerment/scam,source_library\official_reports\OFF-13_sc_beware_of_scams.html,downloaded,200,155068,
+OFF-14,https://www.sc.com.my/investment-checker,source_library\official_reports\OFF-14_sc_investment_checker.html,downloaded,200,595493,
+OFF-15,https://www.sc.com.my/resources/media/investor-alert-updates,source_library\official_reports\OFF-15_sc_investor_alert_updates.html,downloaded,200,278863,
+OFF-16,https://www.sc.com.my/resources/media/media-release/sc-and-mcmc-to-combat-scams-via-enhanced-regulatory-oversight,source_library\official_reports\OFF-16_sc_mcmc_enhanced_oversight.html,downloaded,200,83090,
+OFF-17,https://www.dosm.gov.my/portal-main/release-content/crime-statistics-malaysia-2025,source_library\official_reports\OFF-17_dosm_crime_statistics_2025.html,downloaded_ssl_unverified,200,118951,Saved with SSL verification fallback
+OFF-18,https://www.cybersecurity.my/portal-main/advisories-details/47317289-8a00-11ef-b9ea-005056812d51,source_library\official_reports\OFF-18_csm_cyber999_q2_2024.html,downloaded,200,231841,
+ACA-01,https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0317232,source_library\academic_papers\ACA-01_balakrishnan_online_fraud_predictors_plos.html,downloaded,200,242816,
+ACA-02,https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0317232&type=printable,source_library\academic_papers\ACA-02_balakrishnan_online_fraud_predictors_plos.pdf,downloaded,200,583216,
+ACA-03,https://research.monash.edu/en/publications/a-systematic-literature-review-of-profiling-victims-of-cyber-scam/,source_library\academic_papers\ACA-03_whitty_cyber_scam_victim_profiling.html,downloaded,200,48131,
+ACA-04,https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1805536/full,source_library\academic_papers\ACA-04_frontiers_fraud_psychosocial_impact.html,downloaded,200,772039,
+ACA-05,https://www.sciencedirect.com/science/article/pii/S0167404823006053,source_library\academic_papers\ACA-05_anti_phishing_training_review.html.download_error.txt,failed,,0,<HTTPError 403: 'Forbidden'>
+ACA-06,https://www.iieta.org/download/file/fid/166612,source_library\academic_papers\ACA-06_pmt_phishing_behaviour.pdf,downloaded,200,1121371,
+ACA-07,https://consumer.ftc.gov/system/files/consumer_ftc_gov/pdf/A%20Review%20of%20Scam%20Prevention%20Messaging%20Research.pdf,source_library\academic_papers\ACA-07_ftc_scam_prevention_messaging_review.pdf,downloaded,200,545555,
+ACA-08,https://pmc.ncbi.nlm.nih.gov/articles/PMC12192844/,source_library\academic_papers\ACA-08_pmc_internet_scams_mental_health.html,downloaded,200,213109,
+ACA-09,https://jcis.uitm.edu.my/journal/volume8/issue2/3_Cybercrime_Through_Love_Scams_What_Women_Should_Know.pdf,source_library\academic_papers\ACA-09_love_scam_women_uitm.pdf,downloaded,200,1690975,
+ACA-10,https://strathprints.strath.ac.uk/87505/1/Naqvi-etal-CS-2023-Mitigation-strategies-against-the-phishing-attacks.pdf,source_library\academic_papers\ACA-10_naqvi_mitigation_strategies_phishing_attacks.pdf,downloaded,200,2840855,

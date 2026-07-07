@@ -1,0 +1,3 @@
+Download failed on 2026-07-04
+URL: https://bnm.gov.my/publications/ar2025/box4
+Error: Empty response body with HTTP 202

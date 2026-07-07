@@ -1,0 +1,12 @@
+{
+  "generated": "2026-07-04",
+  "source_count": 27,
+  "downloaded": 20,
+  "downloaded_ssl_unverified": 2,
+  "cached_after_download_error": 0,
+  "hard_failed": 5,
+  "usable_local_sources": 22,
+  "source_library": "02_working_record\\03_cyber_fraud_research_report_2026-04_to_2026-06\\source_library",
+  "evidence_matrix": "02_working_record\\03_cyber_fraud_research_report_2026-04_to_2026-06\\evidence_and_references\\evidence_matrix_v2.md",
+  "note": "The main cyber fraud report draft was not edited by this script."
+}

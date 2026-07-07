@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="490.0" y="34" text-anchor="middle" font-family="Times New Roman, serif" font-size="22" font-weight="bold">Evidence Coverage by Seven-Factor Backbone</text>
+<text x="490.0" y="58" text-anchor="middle" font-family="Times New Roman, serif" font-size="14">Count of evidence-matrix claims mapped to each factor</text>
+<line x1="96" y1="434" x2="940" y2="434" stroke="#222"/>
+<line x1="96" y1="80" x2="96" y2="434" stroke="#222"/>
+<line x1="96" y1="434.0" x2="940" y2="434.0" stroke="#e5e8ef"/>
+<text x="84" y="438.0" text-anchor="end" font-family="Times New Roman, serif" font-size="13">0</text>
+<line x1="96" y1="363.2" x2="940" y2="363.2" stroke="#e5e8ef"/>
+<text x="84" y="367.2" text-anchor="end" font-family="Times New Roman, serif" font-size="13">20</text>
+<line x1="96" y1="292.4" x2="940" y2="292.4" stroke="#e5e8ef"/>
+<text x="84" y="296.4" text-anchor="end" font-family="Times New Roman, serif" font-size="13">40</text>
+<line x1="96" y1="221.6" x2="940" y2="221.6" stroke="#e5e8ef"/>
+<text x="84" y="225.6" text-anchor="end" font-family="Times New Roman, serif" font-size="13">60</text>
+<line x1="96" y1="150.8" x2="940" y2="150.8" stroke="#e5e8ef"/>
+<text x="84" y="154.8" text-anchor="end" font-family="Times New Roman, serif" font-size="13">80</text>
+<line x1="96" y1="80.0" x2="940" y2="80.0" stroke="#e5e8ef"/>
+<text x="84" y="84.0" text-anchor="end" font-family="Times New Roman, serif" font-size="13">100</text>
+<rect x="96.0" y="405.7" width="105.1" height="28.3" fill="#2e6f9e"/>
+<text x="148.6" y="397.7" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">8</text>
+<text x="148.6" y="476" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">F1</text>
+<rect x="219.1" y="419.8" width="105.1" height="14.2" fill="#2e6f9e"/>
+<text x="271.7" y="411.8" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">4</text>
+<text x="271.7" y="476" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">F2</text>
+<rect x="342.3" y="419.8" width="105.1" height="14.2" fill="#2e6f9e"/>
+<text x="394.9" y="411.8" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">4</text>
+<text x="394.9" y="476" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">F3</text>
+<rect x="465.4" y="419.8" width="105.1" height="14.2" fill="#2e6f9e"/>
+<text x="518.0" y="411.8" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">4</text>
+<text x="518.0" y="476" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">F4</text>
+<rect x="588.6" y="419.8" width="105.1" height="14.2" fill="#2e6f9e"/>
+<text x="641.1" y="411.8" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">4</text>
+<text x="641.1" y="476" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">F5</text>
+<rect x="711.7" y="426.9" width="105.1" height="7.1" fill="#2e6f9e"/>
+<text x="764.3" y="418.9" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">2</text>
+<text x="764.3" y="476" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">F6</text>
+<rect x="834.9" y="398.6" width="105.1" height="35.4" fill="#2e6f9e"/>
+<text x="887.4" y="390.6" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">10</text>
+<text x="887.4" y="476" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">F7</text>
+</svg>

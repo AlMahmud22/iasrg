@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Wazuh lab deployment flow</title>
+  <desc id="desc">A simple lab flow showing endpoint events moving through Wazuh agent, server, indexer, dashboard, and analyst response.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#2f5d7c"/>
+    </marker>
+    <style>
+      .box { fill:#f7fafc; stroke:#2f5d7c; stroke-width:2; rx:12; }
+      .box2 { fill:#eef6f4; stroke:#2f7c67; stroke-width:2; rx:12; }
+      .text { font-family: Arial, sans-serif; fill:#17202a; font-size:22px; font-weight:700; }
+      .sub { font-family: Arial, sans-serif; fill:#3f4d5a; font-size:16px; }
+      .arrow { stroke:#2f5d7c; stroke-width:3; fill:none; marker-end:url(#arrow); }
+    </style>
+  </defs>
+  <rect width="1200" height="360" fill="#ffffff"/>
+  <text x="54" y="48" class="text">Simple Wazuh Lab Flow</text>
+  <text x="54" y="74" class="sub">Endpoint events are collected, analyzed, indexed, viewed, and acted on through a controlled response workflow.</text>
+
+  <rect x="50" y="130" width="160" height="92" class="box"/>
+  <text x="83" y="167" class="text">Endpoint</text>
+  <text x="75" y="193" class="sub">Windows/Linux VM</text>
+
+  <rect x="270" y="130" width="160" height="92" class="box2"/>
+  <text x="304" y="167" class="text">Agent</text>
+  <text x="299" y="193" class="sub">Logs and checks</text>
+
+  <rect x="490" y="130" width="160" height="92" class="box"/>
+  <text x="535" y="167" class="text">Server</text>
+  <text x="516" y="193" class="sub">Rules and alerts</text>
+
+  <rect x="710" y="130" width="160" height="92" class="box"/>
+  <text x="748" y="167" class="text">Indexer</text>
+  <text x="746" y="193" class="sub">Alert storage</text>
+
+  <rect x="930" y="130" width="160" height="92" class="box2"/>
+  <text x="960" y="167" class="text">Dashboard</text>
+  <text x="968" y="193" class="sub">Review and triage</text>
+
+  <rect x="490" y="266" width="380" height="58" class="box2"/>
+  <text x="570" y="301" class="text">Ticket, firewall action, or active response</text>
+
+  <path d="M210 176 H270" class="arrow"/>
+  <path d="M430 176 H490" class="arrow"/>
+  <path d="M650 176 H710" class="arrow"/>
+  <path d="M870 176 H930" class="arrow"/>
+  <path d="M1010 222 C1010 300 900 295 870 295" class="arrow"/>
+</svg>

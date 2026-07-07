@@ -1,0 +1,4 @@
+period,indicator,cases,loss_rm_million,source_id,measurement_note
+2025 Q1,Online financial fraud cases,12110,573.7,OFF-04,"PDRM figure quoted by BNM speech. Police case/loss figures, not Cyber999 incidents."
+2025 Jan-Nov,Online crime cases,67735,>2700,OFF-11,PDRM figure quoted by MyCERT Q3 2025. Do not merge with Cyber999 handled incidents.
+2026 Jan-Mar,Job scam cases,1537,31.8,OFF-05,PDRM Scam Alert job-scam warning. Specific scam type and period.

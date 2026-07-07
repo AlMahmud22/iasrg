@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="540" viewBox="0 0 980 540">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="490.0" y="34" text-anchor="middle" font-family="Times New Roman, serif" font-size="22" font-weight="bold">Cyber999 Total Incidents and Fraud Incidents by Quarter</text>
+<line x1="88" y1="448" x2="940" y2="448" stroke="#222"/>
+<line x1="88" y1="72" x2="88" y2="448" stroke="#222"/>
+<line x1="88" y1="448.0" x2="940" y2="448.0" stroke="#e5e8ef"/>
+<text x="76" y="452.0" text-anchor="end" font-family="Times New Roman, serif" font-size="13">0</text>
+<line x1="88" y1="372.8" x2="940" y2="372.8" stroke="#e5e8ef"/>
+<text x="76" y="376.8" text-anchor="end" font-family="Times New Roman, serif" font-size="13">450</text>
+<line x1="88" y1="297.6" x2="940" y2="297.6" stroke="#e5e8ef"/>
+<text x="76" y="301.6" text-anchor="end" font-family="Times New Roman, serif" font-size="13">900</text>
+<line x1="88" y1="222.4" x2="940" y2="222.4" stroke="#e5e8ef"/>
+<text x="76" y="226.4" text-anchor="end" font-family="Times New Roman, serif" font-size="13">1350</text>
+<line x1="88" y1="147.2" x2="940" y2="147.2" stroke="#e5e8ef"/>
+<text x="76" y="151.2" text-anchor="end" font-family="Times New Roman, serif" font-size="13">1800</text>
+<line x1="88" y1="72.0" x2="940" y2="72.0" stroke="#e5e8ef"/>
+<text x="76" y="76.0" text-anchor="end" font-family="Times New Roman, serif" font-size="13">2250</text>
+<text x="88.0" y="486" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">2024 Q2</text>
+<text x="258.4" y="486" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">2024 Q4</text>
+<text x="428.8" y="486" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">2025 Q1</text>
+<text x="599.2" y="486" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">2025 Q2</text>
+<text x="769.6" y="486" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">2025 Q3</text>
+<text x="940.0" y="486" text-anchor="middle" font-family="Times New Roman, serif" font-size="13">2025 Q4</text>
+<circle cx="88.0" cy="200.5" r="4" fill="#1f5f99"/>
+<text x="88.0" y="190.5" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#1f5f99">1481</text>
+<circle cx="258.4" cy="189.0" r="4" fill="#1f5f99"/>
+<text x="258.4" y="179.0" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#1f5f99">1550</text>
+<circle cx="428.8" cy="171.1" r="4" fill="#1f5f99"/>
+<text x="428.8" y="161.1" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#1f5f99">1657</text>
+<circle cx="599.2" cy="104.1" r="4" fill="#1f5f99"/>
+<text x="599.2" y="94.1" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#1f5f99">2058</text>
+<circle cx="769.6" cy="110.4" r="4" fill="#1f5f99"/>
+<text x="769.6" y="100.4" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#1f5f99">2020</text>
+<polyline points="88.0,200.5 258.4,189.0 428.8,171.1 599.2,104.1 769.6,110.4" fill="none" stroke="#1f5f99" stroke-width="3"/>
+<rect x="88" y="512" width="16" height="10" fill="#1f5f99"/>
+<text x="110" y="521" font-family="Times New Roman, serif" font-size="13">Total incidents</text>
+<circle cx="88.0" cy="289.7" r="4" fill="#c25b2c"/>
+<text x="88.0" y="279.7" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#c25b2c">947</text>
+<circle cx="258.4" cy="262.8" r="4" fill="#c25b2c"/>
+<text x="258.4" y="252.8" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#c25b2c">1108</text>
+<circle cx="428.8" cy="259.8" r="4" fill="#c25b2c"/>
+<text x="428.8" y="249.8" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#c25b2c">1126</text>
+<circle cx="599.2" cy="175.1" r="4" fill="#c25b2c"/>
+<text x="599.2" y="165.1" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#c25b2c">1633</text>
+<circle cx="769.6" cy="193.8" r="4" fill="#c25b2c"/>
+<text x="769.6" y="183.8" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#c25b2c">1521</text>
+<circle cx="940.0" cy="202.2" r="4" fill="#c25b2c"/>
+<text x="940.0" y="192.2" text-anchor="middle" font-family="Times New Roman, serif" font-size="12" fill="#c25b2c">1471</text>
+<polyline points="88.0,289.7 258.4,262.8 428.8,259.8 599.2,175.1 769.6,193.8 940.0,202.2" fill="none" stroke="#c25b2c" stroke-width="3"/>
+<rect x="308" y="512" width="16" height="10" fill="#c25b2c"/>
+<text x="330" y="521" font-family="Times New Roman, serif" font-size="13">Fraud incidents</text>
+</svg>

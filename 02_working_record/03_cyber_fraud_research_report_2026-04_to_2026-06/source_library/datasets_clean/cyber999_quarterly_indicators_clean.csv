@@ -1,0 +1,7 @@
+period,total_incidents,fraud_incidents,fraud_share_pct,phishing,impersonation_spoofing,bogus_email,fraudulent_website,job_scam,business_email_compromise,love_parcel_scam,source_id,measurement_note,computed_fraud_share_pct,data_check_note
+2024 Q2,1481,947,63.94,,,,,,,,OFF-18,Cyber999 handled incidents only.,63.94,share check ok
+2024 Q4,1550,1108,71,810,252,,,,,,OFF-08,Cyber999 handled incidents only.,71.48,share check ok
+2025 Q1,1657,1126,68,719,342,28,8,20,6,3,OFF-09,Cyber999 handled incidents only.,67.95,share check ok
+2025 Q2,2058,1633,80,1127,341,56,40,57,3,9,OFF-10,Cyber999 handled incidents only.,79.35,share check ok
+2025 Q3,2020,1521,75,1160,352,26,38,25,8,5,OFF-11,Cyber999 handled incidents only.,75.30,share check ok
+2025 Q4,,1471,,,,,,,,,OFF-12,Partial extracted point. Full table should be checked before using as a complete quarter.,,partial
