@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="640" viewBox="0 0 1180 640">
+  <rect width="1180" height="640" fill="#ffffff"/>
+  <style>
+    .txt{font-family:Arial,sans-serif;font-size:17px;fill:#111827}
+    .title{font-family:Arial,sans-serif;font-size:26px;fill:#111827;font-weight:700}
+    .c0{fill:#f3f4f6}.c1{fill:#dbeafe}.c2{fill:#93c5fd}.c3{fill:#3b82f6}
+    .cell{stroke:#ffffff;stroke-width:2}
+  </style>
+  <text x="590" y="45" text-anchor="middle" class="title">Seven-Factor Evidence Coverage</text>
+  <text x="360" y="95" text-anchor="middle" class="txt">Official sources</text>
+  <text x="560" y="95" text-anchor="middle" class="txt">Academic sources</text>
+  <text x="760" y="95" text-anchor="middle" class="txt">Evidence claims</text>
+  <text x="105" y="140" class="txt">F1 Awareness gap</text><rect x="300" y="115" width="120" height="40" class="c3 cell"/><rect x="500" y="115" width="120" height="40" class="c2 cell"/><rect x="700" y="115" width="120" height="40" class="c3 cell"/>
+  <text x="105" y="195" class="txt">F2 Social influence</text><rect x="300" y="170" width="120" height="40" class="c1 cell"/><rect x="500" y="170" width="120" height="40" class="c2 cell"/><rect x="700" y="170" width="120" height="40" class="c2 cell"/>
+  <text x="105" y="250" class="txt">F3 Authority</text><rect x="300" y="225" width="120" height="40" class="c3 cell"/><rect x="500" y="225" width="120" height="40" class="c0 cell"/><rect x="700" y="225" width="120" height="40" class="c2 cell"/>
+  <text x="105" y="305" class="txt">F4 Urgency/fear</text><rect x="300" y="280" width="120" height="40" class="c3 cell"/><rect x="500" y="280" width="120" height="40" class="c1 cell"/><rect x="700" y="280" width="120" height="40" class="c2 cell"/>
+  <text x="105" y="360" class="txt">F5 Emotion/recovery</text><rect x="300" y="335" width="120" height="40" class="c1 cell"/><rect x="500" y="335" width="120" height="40" class="c2 cell"/><rect x="700" y="335" width="120" height="40" class="c2 cell"/>
+  <text x="105" y="415" class="txt">F6 Financial need</text><rect x="300" y="390" width="120" height="40" class="c2 cell"/><rect x="500" y="390" width="120" height="40" class="c0 cell"/><rect x="700" y="390" width="120" height="40" class="c1 cell"/>
+  <text x="105" y="470" class="txt">F7 Self-efficacy</text><rect x="300" y="445" width="120" height="40" class="c3 cell"/><rect x="500" y="445" width="120" height="40" class="c3 cell"/><rect x="700" y="445" width="120" height="40" class="c3 cell"/>
+  <rect x="880" y="170" width="30" height="25" class="c0 cell"/><text x="920" y="190" class="txt">None/low</text>
+  <rect x="880" y="215" width="30" height="25" class="c1 cell"/><text x="920" y="235" class="txt">Limited</text>
+  <rect x="880" y="260" width="30" height="25" class="c2 cell"/><text x="920" y="280" class="txt">Moderate</text>
+  <rect x="880" y="305" width="30" height="25" class="c3 cell"/><text x="920" y="325" class="txt">Strong</text>
+</svg>

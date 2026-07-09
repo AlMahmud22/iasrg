@@ -1,0 +1,44 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="640" viewBox="0 0 1180 640">
+  <rect width="1180" height="640" fill="#ffffff"/>
+  <style>
+    .box{fill:#f7fbff;stroke:#2f5f8f;stroke-width:2;rx:12}
+    .head{fill:#dceeff;stroke:#2f5f8f;stroke-width:2;rx:12}
+    .txt{font-family:Arial,sans-serif;font-size:23px;fill:#111827;font-weight:700}
+    .sub{font-family:Arial,sans-serif;font-size:17px;fill:#374151}
+    .line{stroke:#374151;stroke-width:3;marker-end:url(#arrow)}
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#374151"/>
+    </marker>
+  </defs>
+  <text x="590" y="45" text-anchor="middle" class="txt">Five-Module Prevention and Response Design</text>
+  <rect x="70" y="105" width="190" height="120" class="head"/>
+  <text x="165" y="142" text-anchor="middle" class="txt">Module 1</text>
+  <text x="165" y="172" text-anchor="middle" class="sub">Scam cue</text>
+  <text x="165" y="198" text-anchor="middle" class="sub">recognition</text>
+  <rect x="290" y="105" width="190" height="120" class="head"/>
+  <text x="385" y="142" text-anchor="middle" class="txt">Module 2</text>
+  <text x="385" y="172" text-anchor="middle" class="sub">Pressure and</text>
+  <text x="385" y="198" text-anchor="middle" class="sub">authority resistance</text>
+  <rect x="510" y="105" width="190" height="120" class="head"/>
+  <text x="605" y="142" text-anchor="middle" class="txt">Module 3</text>
+  <text x="605" y="172" text-anchor="middle" class="sub">Independent</text>
+  <text x="605" y="198" text-anchor="middle" class="sub">verification</text>
+  <rect x="730" y="105" width="190" height="120" class="head"/>
+  <text x="825" y="142" text-anchor="middle" class="txt">Module 4</text>
+  <text x="825" y="172" text-anchor="middle" class="sub">Reporting and</text>
+  <text x="825" y="198" text-anchor="middle" class="sub">evidence handling</text>
+  <rect x="950" y="105" width="190" height="120" class="head"/>
+  <text x="1045" y="142" text-anchor="middle" class="txt">Module 5</text>
+  <text x="1045" y="172" text-anchor="middle" class="sub">Recovery and</text>
+  <text x="1045" y="198" text-anchor="middle" class="sub">revictimization control</text>
+  <line x1="260" y1="165" x2="290" y2="165" class="line"/>
+  <line x1="480" y1="165" x2="510" y2="165" class="line"/>
+  <line x1="700" y1="165" x2="730" y2="165" class="line"/>
+  <line x1="920" y1="165" x2="950" y2="165" class="line"/>
+  <rect x="115" y="330" width="950" height="180" class="box"/>
+  <text x="590" y="370" text-anchor="middle" class="txt">Measured Outputs</text>
+  <text x="590" y="410" text-anchor="middle" class="sub">Cue identification score | Pressure resistance score | Verification action score</text>
+  <text x="590" y="448" text-anchor="middle" class="sub">Reporting path selection | Recovery-scam refusal | Evidence preservation</text>
+</svg>

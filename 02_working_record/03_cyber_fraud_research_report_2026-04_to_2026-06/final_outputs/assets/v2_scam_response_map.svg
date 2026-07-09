@@ -1,0 +1,40 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="640" viewBox="0 0 1180 640">
+  <rect width="1180" height="640" fill="#ffffff"/>
+  <style>
+    .box{fill:#eef6ff;stroke:#2f5f8f;stroke-width:2;rx:12}
+    .red{fill:#fff1f2;stroke:#be123c;stroke-width:2;rx:12}
+    .txt{font-family:Arial,sans-serif;font-size:22px;fill:#111827;font-weight:700}
+    .sub{font-family:Arial,sans-serif;font-size:17px;fill:#374151}
+    .line{stroke:#374151;stroke-width:3;fill:none;marker-end:url(#arrow)}
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#374151"/>
+    </marker>
+  </defs>
+  <text x="590" y="45" text-anchor="middle" class="txt">Public Scam Response Tool Map</text>
+  <rect x="60" y="110" width="220" height="105" class="red"/>
+  <text x="170" y="145" text-anchor="middle" class="txt">Suspicious contact</text>
+  <text x="170" y="175" text-anchor="middle" class="sub">Message, call, link or account</text>
+  <rect x="360" y="80" width="220" height="105" class="box"/>
+  <text x="470" y="115" text-anchor="middle" class="txt">Verify</text>
+  <text x="470" y="145" text-anchor="middle" class="sub">Semak Mule, SC Checker</text>
+  <rect x="360" y="240" width="220" height="105" class="box"/>
+  <text x="470" y="275" text-anchor="middle" class="txt">Stop payment</text>
+  <text x="470" y="305" text-anchor="middle" class="sub">Bank hotline, NSRC 997</text>
+  <rect x="660" y="80" width="220" height="105" class="box"/>
+  <text x="770" y="115" text-anchor="middle" class="txt">Report cyber incident</text>
+  <text x="770" y="145" text-anchor="middle" class="sub">Cyber999 / MyCERT</text>
+  <rect x="660" y="240" width="220" height="105" class="box"/>
+  <text x="770" y="275" text-anchor="middle" class="txt">Report crime</text>
+  <text x="770" y="305" text-anchor="middle" class="sub">PDRM channel</text>
+  <rect x="960" y="160" width="170" height="105" class="box"/>
+  <text x="1045" y="195" text-anchor="middle" class="txt">Preserve</text>
+  <text x="1045" y="225" text-anchor="middle" class="sub">Screenshots, IDs, logs</text>
+  <path d="M280 160 C320 130 330 130 360 132" class="line"/>
+  <path d="M280 172 C325 250 330 282 360 292" class="line"/>
+  <path d="M580 132 H660" class="line"/>
+  <path d="M580 292 H660" class="line"/>
+  <path d="M880 132 C930 140 950 165 960 195" class="line"/>
+  <path d="M880 292 C930 280 950 235 960 220" class="line"/>
+</svg>

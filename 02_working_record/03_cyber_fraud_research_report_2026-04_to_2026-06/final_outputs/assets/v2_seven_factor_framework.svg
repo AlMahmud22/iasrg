@@ -1,0 +1,43 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="760" viewBox="0 0 1180 760">
+  <rect width="1180" height="760" fill="#ffffff"/>
+  <style>
+    .core{fill:#0f3d5e}
+    .node{fill:#eef6ff;stroke:#2f5f8f;stroke-width:2;rx:14}
+    .txt{font-family:Arial,sans-serif;font-size:24px;fill:#111827;font-weight:700}
+    .sub{font-family:Arial,sans-serif;font-size:17px;fill:#374151}
+    .white{font-family:Arial,sans-serif;font-size:24px;fill:#ffffff;font-weight:700}
+    .line{stroke:#607d9b;stroke-width:3}
+  </style>
+  <circle cx="590" cy="380" r="118" class="core"/>
+  <text x="590" y="356" text-anchor="middle" class="white">Cyber Fraud</text>
+  <text x="590" y="388" text-anchor="middle" class="white">Revictimization</text>
+  <text x="590" y="420" text-anchor="middle" class="white">Framework</text>
+  <line x1="500" y1="315" x2="320" y2="165" class="line"/>
+  <line x1="590" y1="262" x2="590" y2="130" class="line"/>
+  <line x1="680" y1="315" x2="860" y2="165" class="line"/>
+  <line x1="708" y1="390" x2="930" y2="380" class="line"/>
+  <line x1="675" y1="465" x2="860" y2="595" class="line"/>
+  <line x1="590" y1="498" x2="590" y2="640" class="line"/>
+  <line x1="505" y1="465" x2="320" y2="595" class="line"/>
+  <rect x="135" y="95" width="300" height="120" class="node"/>
+  <text x="285" y="132" text-anchor="middle" class="txt">F1 Awareness Gap</text>
+  <text x="285" y="164" text-anchor="middle" class="sub">Recognising cues and unsafe requests</text>
+  <rect x="440" y="55" width="300" height="120" class="node"/>
+  <text x="590" y="92" text-anchor="middle" class="txt">F2 Social Influence</text>
+  <text x="590" y="124" text-anchor="middle" class="sub">Trust transfer and social proof</text>
+  <rect x="745" y="95" width="300" height="120" class="node"/>
+  <text x="895" y="132" text-anchor="middle" class="txt">F3 Authority</text>
+  <text x="895" y="164" text-anchor="middle" class="sub">Impersonation and false legitimacy</text>
+  <rect x="890" y="320" width="240" height="120" class="node"/>
+  <text x="1010" y="357" text-anchor="middle" class="txt">F4 Urgency</text>
+  <text x="1010" y="389" text-anchor="middle" class="sub">Fear, pressure and loss threat</text>
+  <rect x="745" y="545" width="300" height="120" class="node"/>
+  <text x="895" y="582" text-anchor="middle" class="txt">F5 Emotion</text>
+  <text x="895" y="614" text-anchor="middle" class="sub">Grooming, shame and recovery risk</text>
+  <rect x="440" y="590" width="300" height="120" class="node"/>
+  <text x="590" y="627" text-anchor="middle" class="txt">F6 Finance</text>
+  <text x="590" y="659" text-anchor="middle" class="sub">Need, opportunity and FOMO</text>
+  <rect x="135" y="545" width="300" height="120" class="node"/>
+  <text x="285" y="582" text-anchor="middle" class="txt">F7 Self-Efficacy</text>
+  <text x="285" y="614" text-anchor="middle" class="sub">Verification, refusal and reporting</text>
+</svg>
